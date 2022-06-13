@@ -1,7 +1,11 @@
 {
     "post": [
         {
-            "token": "123"
+            "token": "eyJhbGciOiJIUzI1NiIsImlhdCI6MTY1NTA5NDE1NywiZXhwIjoxNjU3Njg2MTU3fQ.eyJpZCI6IjcyY2NlZTMzLTdhNWMtNDgxZS1iYmU3LWMwZjMzNWVkOGQzYSIsIl9uZXdfdG9rZW4iOiJ0cnVlIn0.HEnUiDaLGdKGM6ETu5cN-aLnQOuYvC3QKglC99e7ATU",
+            "user_id": "72ccee33-7a5c-481e-bbe7-c0f335ed8d3a",
+            "GCLB": "CLH3v8Cqu8mxWg",
+            "lh-ent-session": "eJyN0EFOAzEMheG7ZM1Ijh3HSS8zshOHVoUpmk7FAnF3UiH2bL34_el9hXXsfj",
+            "WXstatus": "U4A1"
         }
     ]
 }
