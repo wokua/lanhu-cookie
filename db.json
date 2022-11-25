@@ -1,18 +1,18 @@
 {
     "post": [
         {
-             "token": "eyJhbGciOiJIUzI1NiIsImlhdCI6MTY2NzgwMzgyMCwiZXhwIjoxNjcwMzk1ODIwfQ.eyJpZCI6IjcyY2NlZTMzLTdhNWMtNDgxZS1iYmU3LWMwZjMzNWVkOGQzYSIsIl9uZXdfdG9rZW4iOiJ0cnVlIn0.Ifwe1KjvH2Bj63Nu1IoHEtifUNS38G-KUSi5c0jRn2k",
+             "token": "eyJhbGciOiJIUzI1NiIsImlhdCI6MTY2OTI4NTA0MywiZXhwIjoxNjcxODc3MDQzfQ.eyJpZCI6IjcyY2NlZTMzLTdhNWMtNDgxZS1iYmU3LWMwZjMzNWVkOGQzYSIsIl9uZXdfdG9rZW4iOiJ0cnVlIn0.3w6M45SjYWeOP8FlvX1AadlzxxN6kcCSiN9Ge2v3my8",
             "user_id": "72ccee33-7a5c-481e-bbe7-c0f335ed8d3a",
-            "GCLB": "CKqorOvZ9pj-zQE",
-            "session": ".eJyN0EFOAzEMheG7ZM1IiZ3ESS8zSpxnWhWmaDoVC8TdSYXYs7QXvz_5y6224352p2N_4MWtl-FOjocZpc6xlRayL4qqqXfx1ZhalB5bGkxeCBY1SZeQA0SoexJEyQjGaYRYpQfyqXiNnbxJMZi3QZxyCVlnLRMTGFoLqdQ5q8_FTciGz_W4XbFNz9P23H1gf28btuOP-3Z7vWyrnqHXRUgVYF6kJV1iCVh6hyzqjTlhlMFttrRoj7AaYny6MNCF8ggJLYc26rzzuGP_fcS_mt8_tEdePg.Fko8LA.23ETAbKGeFXLoxtffElUOE6Oq28",
-            "WXstatus": "KPSL"
+            "GCLB": "COyJls7FyZGSugE",
+            "session": ".eJyN0M1OwzAQBOB3yZlIXu961-7LRN4f06qQojQVB8S7kwpx5zqHmU_zNS1ji_t5Ou3bI16m5eLTaWp9UPcOrFEcjSxhBRmm3ispMjVLxDWE3FJyyLWUjGQy1LT3hlKqe9WWlY0w5aLYrQqmKlIyM7CTDxkNoeEAagyu0jRGjk40HZA1Ppf9do318Dxtz-wjtve-xrr_cd9ur5d1sXPYdZZsFoE4Sy82U4WYVUNmSwOxhFfHfnQVJuYEAdJSBrRcIHkkHsTFw8ax87jH9nvEvzq_fwBpAF48.FmDWMw.0ZhWTy20Vr3siDr6m6qColNYA4k",
+            "WXstatus": "3ZLB"
         },
         {
-                      "token": "eyJhbGciOiJIUzI1NiIsImlhdCI6MTY2NzgwMzgyMCwiZXhwIjoxNjcwMzk1ODIwfQ.eyJpZCI6IjcyY2NlZTMzLTdhNWMtNDgxZS1iYmU3LWMwZjMzNWVkOGQzYSIsIl9uZXdfdG9rZW4iOiJ0cnVlIn0.Ifwe1KjvH2Bj63Nu1IoHEtifUNS38G-KUSi5c0jRn2k",
+                     "token": "eyJhbGciOiJIUzI1NiIsImlhdCI6MTY2OTI4NTA0MywiZXhwIjoxNjcxODc3MDQzfQ.eyJpZCI6IjcyY2NlZTMzLTdhNWMtNDgxZS1iYmU3LWMwZjMzNWVkOGQzYSIsIl9uZXdfdG9rZW4iOiJ0cnVlIn0.3w6M45SjYWeOP8FlvX1AadlzxxN6kcCSiN9Ge2v3my8",
             "user_id": "72ccee33-7a5c-481e-bbe7-c0f335ed8d3a",
-            "GCLB": "CKqorOvZ9pj-zQE",
-            "session": ".eJyN0EFOAzEMheG7ZM1IiZ3ESS8zSpxnWhWmaDoVC8TdSYXYs7QXvz_5y6224352p2N_4MWtl-FOjocZpc6xlRayL4qqqXfx1ZhalB5bGkxeCBY1SZeQA0SoexJEyQjGaYRYpQfyqXiNnbxJMZi3QZxyCVlnLRMTGFoLqdQ5q8_FTciGz_W4XbFNz9P23H1gf28btuOP-3Z7vWyrnqHXRUgVYF6kJV1iCVh6hyzqjTlhlMFttrRoj7AaYny6MNCF8ggJLYc26rzzuGP_fcS_mt8_tEdePg.Fko8LA.23ETAbKGeFXLoxtffElUOE6Oq28",
-            "WXstatus": "KPSL"
+            "GCLB": "COyJls7FyZGSugE",
+            "session": ".eJyN0M1OwzAQBOB3yZlIXu961-7LRN4f06qQojQVB8S7kwpx5zqHmU_zNS1ji_t5Ou3bI16m5eLTaWp9UPcOrFEcjSxhBRmm3ispMjVLxDWE3FJyyLWUjGQy1LT3hlKqe9WWlY0w5aLYrQqmKlIyM7CTDxkNoeEAagyu0jRGjk40HZA1Ppf9do318Dxtz-wjtve-xrr_cd9ur5d1sXPYdZZsFoE4Sy82U4WYVUNmSwOxhFfHfnQVJuYEAdJSBrRcIHkkHsTFw8ax87jH9nvEvzq_fwBpAF48.FmDWMw.0ZhWTy20Vr3siDr6m6qColNYA4k",
+            "WXstatus": "3ZLB"
         }
     ]
 }
